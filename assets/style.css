@@ -89,15 +89,15 @@ body,html {
 
   .image1 {
     opacity: 1;
-    display:block;
-    width:100%;
+    display:inline-block;
+    width:95%;
     height: 550px;
     transition: .5s ease;
     backface-visibility: hidden;
   }
   
   
-  .image {
+  .image2 {
     opacity: 1;
     display:block;
     width:50%;
@@ -116,6 +116,8 @@ body,html {
     -ms-transform: translate(-50%, -50%);
     text-align: center;
   }
+
+  
   
   .container:hover .image {
     opacity: 0.3;
