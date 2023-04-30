@@ -24,9 +24,10 @@ THEN I am taken to that deployed application
 WHEN I resize the page or view the site on various screens and devices
 THEN I am presented with a responsive layout that adapts to my viewport
 
-Install: 
+Install: N/A
 
 Credits: 
-
-Links: 
+https://www.scaler.com/topics/how-to-link-to-a-specific-part-of-a-page-html/
+https://getbootstrap.com/docs/5.1/getting-started/introduction/
 https://www.w3schools.com/howto/howto_css_image_overlay.asp 
+https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css 
